@@ -1,0 +1,91 @@
+{
+  "paracetamol": {
+    "uses": "Pain relief and fever reduction",
+    "side_effects": "Nausea, rash, liver damage in high doses",
+    "brands": ["dolo", "crocin", "calpol", "metacin", "pacimol"]
+  },
+
+  "ibuprofen": {
+    "uses": "Pain relief, inflammation reduction",
+    "side_effects": "Stomach pain, dizziness",
+    "brands": ["brufen", "combiflam"]
+  },
+
+  "amoxicillin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Diarrhea, nausea",
+    "brands": ["amoxil", "mox", "novamox"]
+  },
+
+  "amoxicillin clavulanate": {
+    "uses": "Bacterial infections",
+    "side_effects": "Diarrhea, vomiting",
+    "brands": ["augmentin", "clavam", "moxclav"]
+  },
+
+  "azithromycin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea, abdominal pain",
+    "brands": ["azithral", "zithromax", "azee"]
+  },
+
+  "cetirizine": {
+    "uses": "Allergy relief",
+    "side_effects": "Drowsiness",
+    "brands": ["cetzine", "okacet", "alerid"]
+  },
+
+  "pantoprazole": {
+    "uses": "Acidity, GERD",
+    "side_effects": "Headache, diarrhea",
+    "brands": ["pantocid", "pan", "pantodac"]
+  },
+
+  "rabeprazole": {
+    "uses": "Acid reflux, ulcers",
+    "side_effects": "Constipation, headache",
+    "brands": ["rablet", "rabicip"]
+  },
+
+  "metformin": {
+    "uses": "Type 2 diabetes",
+    "side_effects": "Nausea, diarrhea",
+    "brands": ["glycomet", "cetapin"]
+  },
+
+  "atorvastatin": {
+    "uses": "Cholesterol control",
+    "side_effects": "Muscle pain",
+    "brands": ["atorva", "lipitor"]
+  },
+
+  "diclofenac": {
+    "uses": "Pain and inflammation",
+    "side_effects": "Stomach irritation",
+    "brands": ["voveran", "diclo"]
+  },
+
+  "loperamide": {
+    "uses": "Diarrhea control",
+    "side_effects": "Constipation",
+    "brands": ["imodium", "loper"]
+  },
+
+  "ondansetron": {
+    "uses": "Prevents nausea and vomiting",
+    "side_effects": "Headache",
+    "brands": ["ondem", "zofer"]
+  },
+
+  "levocetirizine": {
+    "uses": "Allergy relief",
+    "side_effects": "Drowsiness",
+    "brands": ["xyzal", "levocet"]
+  },
+
+  "doxycycline": {
+    "uses": "Bacterial infections",
+    "side_effects": "Photosensitivity",
+    "brands": ["doxicip", "doxy"]
+  }
+}
